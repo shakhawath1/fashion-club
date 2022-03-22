@@ -1,0 +1,13 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products{
+    background-color: blueviolet;
+    margin: 0px 30px;
+    height: 100ox;
+}
+.cart{
+    background-color: rgb(216, 171, 213);
+    height: 100ox;
+}
