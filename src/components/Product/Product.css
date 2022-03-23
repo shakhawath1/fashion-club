@@ -1,0 +1,25 @@
+.product{
+    border: 2px solid #a85994;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+}
+.product img{
+    width: 100%;
+    border-radius: 5px;
+}
+.product-info{
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+.product-info p{
+    margin: 0;
+}
+.cart-btn{
+    width: 100%;
+    font-size: 18px;
+    padding: 5px;
+    position: absolute;
+    margin-left: -10px;
+    bottom: 0;
+}
